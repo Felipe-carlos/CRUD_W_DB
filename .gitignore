@@ -1,3 +1,5 @@
 base_files/
 My_SQL/__pycache__
 Postgre/__pycache__
+SQLite/__pycache__
+Postgre/psqlite3.felipe

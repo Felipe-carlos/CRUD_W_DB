@@ -5,3 +5,4 @@ SQLite/__pycache__
 Postgre/psqlite3.felipe
 Mongodb_/__pycache__
 Redis_/__pycache__
+couch/__pycache__

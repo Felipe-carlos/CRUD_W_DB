@@ -1,8 +1,9 @@
 # Building CRUD Applications Using Different Databases
 
-This repository contains the application developed as part of the course [Bancos de Dados SQL e NoSQL: Do Básico ao Avançado](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/).
+This repository contains an application developed as part of my database studies. The goal is to implement a simple product management system using both SQL (MySQL, PostgreSQL, SQLite) and NoSQL (MongoDB, Redis, CouchDB) databases.
 
+Overview
+The application serves as a simple product manager, allowing basic CRUD operations (Create, Read, Update, Delete) across various databases. The main menu provides an interface for interacting with these features.
 
-This application emulates a simple product manager, as shown by the main menu bellow.
 
 ![Main Menu](./images/menu.png)
